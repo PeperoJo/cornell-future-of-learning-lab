@@ -5,14 +5,153 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Bootstrap demo</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" crossorigin="anonymous">
+    <link href="css/custom.css" rel="stylesheet">
   </head>
 
-  <body>
+  <body style="height: 4000px;">
 
     <div data-component="navbar"></div>
+
+    <div id="main-hero-container" class="container-md pb-3">
+      <div id="main-hero" class=" w-100 h-100 rounded-3 position-relative px-5">
+        <video id="main-hero-video" autoplay muted loop playsinline>
+          <source src="img/media/bowers-homepage.mp4" type="video/mp4">
+        </video>
+        <div id="main-hero-overlay"></div>
+        <div id="main-hero-gradient-overlay" class="pt-3 px-3 position-absolute w-100"></div>
+        <div id="main-hero-gradient-overlay-bottom" class="pt-3 px-3 position-absolute w-100"></div>
+        <div id="main-hero-text" class="position-relative">
+          We <span id="typing-word">study</span> the future of learning<br>and how technology can advance human development.
+        </div>
+      </div>
+    </div>
+
+    <div class="container-md py-5 ">
+      <div class="row align-items-center gx-5">
+        <div class="col-12 col-md-6">
+          <div class="section-title pb-4">
+            About the Future of Learning Lab
+          </div>
+          <div class="section-content">
+            <span class="section-content-text">
+              We study the future of learning and how technology can advance human development. The Future of Learning Lab at Cornell University explores how technology, data, and human-centered design can transform education. Led by <a class="in-line-link" href="https://rene.kizilcec.com/">Rene Kizilcec</a>, our research bridges the fields of AI in education, learning science, and behavioral science to improve teaching and learning at scale.
+            </span>
+              
+          </div>
+        </div>
+        <div class="col-12 col-md-6">
+          <img src="img/calibration.jpg" alt="Calibration" class="img-fluid aspect-ratio-4-3 rounded-2">
+        </div>
+      </div>
+    </div>
+
+    <div class="container-md py-5 ">
+      <div class="row align-items-center gx-5">
+        <div class="col-12 col-md-12">
+          <div class="section-header pb-4">
+            <div class="section-title">
+              News
+            </div>
+            <ul class="navbar-nav ms-auto gap-3">
+              <li class="nav-item">
+                <a class="nav-link" href="https://substack.com/home">View More</a>
+              </li>
+            </ul> 
+          </div>
+          
+          <div class="section-content">
+            <span class="section-content-text">
+              We study the future of learning and how technology can advance human development. The Future of Learning Lab at Cornell University explores how technology, data, and human-centered design can transform education. Led by <a class="in-line-link" href="https://rene.kizilcec.com/">Rene Kizilcec</a>, our research bridges the fields of AI in education, learning science, and behavioral science to improve teaching and learning at scale.      
+            </span>
+                
+          </div>
+        </div>
+      </div>
+    </div>
     
-    <h1>Hello, world!</h1>
+
+    <div class="container-md py-5 ">
+      <div class="row align-items-center gx-5">
+        <div class="col-12 col-md-6">
+          <div class="section-title pb-4">
+            Our Mission
+          </div>
+          <div class="section-content">
+            <span class="section-content-text">
+              The way people learn is changing. The Future of Learning Lab is committed to advancing our understanding of the impact of technology in education and how it can contribute to advances in human development and benefit society. We investigate pressing questions about the effectiveness and impact of digital learning environments, from online courses and tutoring systems to AI-powered educational tools. Our work leverages large-scale data analysis, randomized experiments, and qualitative insights to understand how learners engage, persist, and succeed in diverse educational settings. A key focus is identifying and addressing disparities in educational access, engagement, and outcomes.       
+            </span>
+               
+          </div>
+        </div>
+        <div class="col-12 col-md-6">
+          <img src="img/calibration.jpg" alt="Calibration" class="img-fluid custom-aspect-ratio rounded-2">
+        </div>
+      </div>
+    </div>
+
+
+    <div id="section-projects" class="py-5">
+      <div class="container-md">
+        <div class="row align-items-center gx-5">
+          <div class="col-12 col-md-12">
+            <div class="section-header pb-4">
+              <div class="section-title">
+                Projects
+              </div>
+              <ul class="navbar-nav ms-auto gap-3 d-flex flex-row">
+                <li class="nav-item">
+                  <a class="nav-link" href="/research">Learn More</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="/publications">View Publications</a>
+                </li>
+              </ul> 
+            </div>
+          </div>
+        </div>
+      </div>
+      
+      <div class="section-content">
+        <div id="projects-go-here">
+          <!-- Project cards will be loaded here by projects-loader.js -->
+        </div>
+      </div>
+    </div>
+
+    <div class="container-md py-5 ">
+      <div class="row align-items-center gx-5">
+        <div class="col-12 col-md-6">
+          <div class="section-title pb-4">
+            Our Work
+          </div>
+          <div class="section-content">
+            <span class="section-content-text">
+              Our research aims to be actionable for practitioners and policymakers, as we study educational technologies and the people who use them out in the world through big data and randomized experiments. To this end, the lab engages in numerous collaborations with education providers to design and implement studies that answer shared research questions. The Future of Learning lab takes a multi-disciplinary approach that builds on theories and methods in the learning sciences, cognitive and social psychology, human-computer interaction, economics, and statistical learning. We are committed to open science practices and to promoting diversity in the field.
+
+              <br><br>
+
+              Learn more about 
+              <a class="in-line-link" href="/people">who we are</a>, 
+              <a class="in-line-link" href="/research">what we do</a>, and 
+              <a class="in-line-link" href="/contact">how to get in touch</a>. 
+            </span>
+               
+          </div>
+        </div>
+        <div class="col-12 col-md-6">
+          <img src="img/calibration.jpg" alt="Calibration" class="img-fluid custom-aspect-ratio rounded-2">
+        </div>
+      </div>
+    </div>
+
+    
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js" integrity="sha384-FKyoEForCGlyvwx9Hj09JcYn3nv7wiPVlz7YYwJrWVcXK/BmnVDxM+D2scQbITxI" crossorigin="anonymous"></script>
     <script src="js/components.js"></script>
+    <script src="js/typing-animation.js"></script>
+    <script src="js/gradient-loader.js"></script>
+    <script src="js/projects-loader.js"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap" rel="stylesheet">
   </body>
 </html>

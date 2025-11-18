@@ -1,0 +1,10 @@
+{
+  "name": "cornell-future-of-learning-lab",
+  "version": "1.0.0",
+  "description": "Local development server",
+  "scripts": {
+    "serve": "npx serve . -p 8000",
+    "start": "npx serve . -p 8000"
+  }
+}
+
