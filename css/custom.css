@@ -1017,6 +1017,7 @@ body {
   font-weight: 600;
   line-height: 42px; /* 133.333% */
   padding-bottom: 12px;
+  scroll-margin-top: calc(var(--navbar-height) + 120px);
 }
 
 .publication-card {
@@ -1056,6 +1057,11 @@ body {
   color: var(--primary-text);
 }
 
+.publication-award-badge {
+  margin-right: 8px;
+  vertical-align: middle;
+}
+
 .publications-intro-note {
   font-size: 15px;
   line-height: 24px;
@@ -1063,10 +1069,21 @@ body {
   margin-bottom: 24px;
 }
 
+.publications-nav {
+  position: sticky;
+  top: var(--navbar-height);
+  z-index: 50;
+  background-color: var(--primary-bg);
+  border-top: 1px solid rgba(34, 34, 34, 0.08);
+  border-bottom: 1px solid rgba(34, 34, 34, 0.08);
+  margin-bottom: 32px;
+}
+
 .publications-jump {
   display: flex;
   flex-direction: column;
   gap: 12px;
+  padding: 16px 0;
 }
 
 .jump-label {

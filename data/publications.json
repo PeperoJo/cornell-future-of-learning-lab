@@ -1,373 +1,898 @@
 [
   {
     "year": 2024,
-    "title": "Time to Degree, Identity, and Grant Writing: Lessons Learned From a Mixed-Methods Longitudinal Case Study of Biosciences PhD Students",
-    "authors": "Alvero, A. J., Peña, C., Moore, A. R., Luqueno, L., Barron, C. B., Steele, L., … & Botham, C. M. (2024)",
-    "details": "SAGE Open, 14(2), 21582440241253662.",
-    "link": "https://journals.sagepub.com/doi/full/10.1177/21582440241253662"
-  },
-  {
-    "year": 2024,
-    "title": "Multilingualism and mismatching: Spanish language usage in college admissions essays",
-    "authors": "Alvero, A. J., & Pattichis, R. (2024)",
-    "details": "Poetics, 105, 101903.",
-    "link": "https://www.sciencedirect.com/science/article/pii/S0304422X24000421"
-  },
-  {
-    "year": 2024,
-    "title": "Ending Affirmative Action Harms Diversity Without Improving Academic Merit",
-    "authors": "Lee, J.*, Harvey, E.*, Zhou, J., Garg, N., Joachims, T., & Kizilcec, R. F. (2024)",
-    "details": "Equity and Access in Algorithms, Mechanisms, and Optimization (EAAMO ’24), ACM.",
-    "link": "https://arxiv.org/pdf/2407.11199v1"
-  },
-  {
-    "year": 2024,
-    "title": "Artificial Communication and Media Realism in College Admissions",
-    "authors": "Muñoz-Najar Galvez, S., Lee, J., Alvero, A. J., Stewart, S., Kizilcec, R. F., & Desiderio, A. (2024)",
-    "details": "The Digitized Campus: Artificial Intelligence and Big Data in Higher Education.",
-    "link": ""
-  },
-  {
-    "year": 2024,
-    "title": "Large language models, social demography, and hegemony: comparing authorship in human and synthetic text",
-    "authors": "Alvero, A. J., Lee, J., Regla-Vargas, A., Kizilec, R., Joachims, T., & Antonio, A. L. (2024)",
-    "details": "Journal of Big Data, 11, 138.",
-    "link": "https://rene.kizilcec.com/wp-content/uploads/2024/09/alvero2024llm.pdf"
-  },
-  {
-    "year": 2024,
-    "title": "The life cycle of large language models in education: A framework for understanding sources of bias",
-    "authors": "Lee, J., Hicke, Y., Yu, R., Brooks, C., & Kizilcec, R. F. (2024)",
-    "details": "British Journal of Educational Technology, 55(5), 1982-2002.",
-    "link": "https://bera-journals.onlinelibrary.wiley.com/doi/abs/10.1111/bjet.13505"
-  },
-  {
-    "year": 2024,
-    "title": "What Explains Teachers’ Trust of AI in Education across Six Countries?",
-    "authors": "Viberg, O., Cukurova, M., Feldman-Maggor, Y., Alexandron, G., Shirai, S., Kanemune, S., Wasson, B., Tømte, C., Spikol, D., Milrad, M., Coelho, R., & Kizilcec, R. F. (2024)",
-    "details": "International Journal of Artificial Intelligence in Education.",
-    "link": "https://arxiv.org/abs/2312.01627"
-  },
-  {
-    "year": 2024,
-    "title": "Which Planning Tactics Predict Online Course Completion?",
-    "authors": "Cho, J., Tao, Y., Yeomans, M., Tingley, D., & Kizilcec, R. F. (2024)",
-    "details": "Proceedings of the International Conference on Learning Analytics and Knowledge (LAK).",
-    "link": "https://rene.kizilcec.com/wp-content/uploads/2023/12/cho2024planning.pdf"
-  },
-  {
-    "year": 2024,
-    "title": "Perceived impact of generative AI on assessments: Comparing educator and student perspectives in Australia, Cyprus, and the United States",
-    "authors": "Kizilcec, R. F., Huber, E., Papanastasiou, E. C., Cram, A., Makridis, C. A., Smolansky, A., Zeivots, S., & Raduescu, C. (2024)",
-    "details": "Computers and Education: Artificial Intelligence, 7, 100269.",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2666920X24000729"
-  },
-  {
-    "year": 2024,
-    "title": "Cultural bias and cultural alignment of large language models",
-    "authors": "Tao, Y., Viberg, O., Baker, R. S., & Kizilcec, R. F. (2024)",
-    "details": "PNAS Nexus, 3(9), p. 346.",
-    "link": "https://academic.oup.com/pnasnexus/article/3/9/pgae346/7756548"
-  },
-  {
-    "year": 2024,
-    "title": "Showing authentic examples of academic and career trajectories to influence college students’ career exploration",
-    "authors": "Chen, Y., & Kizilcec, R. F. (2024)",
-    "details": "Journal of Vocational Behavior, 153, 104026.",
-    "link": "https://www.sciencedirect.com/science/article/pii/S0001879124000678"
-  },
-  {
-    "year": 2024,
-    "title": "Advancing equity and inclusion in educational practices with AI-powered educational decision support systems (AI-EDSS)",
-    "authors": "Viberg, O., Kizilcec, R. F., Wise, A. F., Jivet, I., & Nixon, N. (2024)",
-    "details": "British Journal of Educational Technology, 55(5), 1974-1981.",
-    "link": "https://bera-journals.onlinelibrary.wiley.com/doi/abs/10.1111/bjet.13507"
-  },
-  {
-    "year": 2024,
-    "title": "Human-Algorithmic Interaction Using a Large Language Model-Augmented Artificial Intelligence Clinical Decision Support System",
-    "authors": "Rajashekar, N. C., Shin, Y. E., Pu, Y., Chung, S., You, K., Giuffre, M., Chan, C. E., Saarinen, T., Hsiao, A., Sekhon, J., Wong, A. H., Evans, L. V., Kizilcec, R. F., Laine, L., Mccall, T., & Shung, D. (2024)",
-    "details": "Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems, ACM.",
-    "link": "https://dl.acm.org/doi/full/10.1145/3613904.3642024"
-  },
-  {
-    "year": 2024,
-    "title": "Cultural differences in students’ privacy concerns in learning analytics across Germany, South Korea, Spain, Sweden, and the United States",
-    "authors": "Viberg, O., Kizilcec, R. F., Jivet, I., Monés, A. M., Oh, A., Mutimukwe, C., Hrastinski, S., & Scheffel, M. (2024)",
-    "details": "Computers in Human Behavior Reports, 14, 100416.",
-    "link": "https://www.sciencedirect.com/science/article/pii/S2451958824000496"
+    "title": "A new model of trust based on neural information processing.",
+    "authors": "Allen, Scott E., René F. Kizilcec, and A. David Redish. (Forthcoming, 2024)",
+    "details": "arXiv preprint arXiv:2401.08064.",
+    "link": "https://arxiv.org/pdf/2401.08064",
+    "award": false
   },
   {
     "year": 2024,
     "title": "A systemic model of academic (mis) conduct to curb cheating in higher education",
-    "authors": "Allen, S. E., & Kizilcec, R. F. (2024)",
+    "authors": "Allen, S. E., & Kizilcec, R. F. (2024).",
     "details": "Higher Education, 87(5), 1529-1549.",
-    "link": "https://link.springer.com/article/10.1007/s10734-023-01077-x"
+    "link": "https://link.springer.com/article/10.1007/s10734-023-01077-x",
+    "award": false
   },
   {
     "year": 2024,
-    "title": "To Advance AI Use in Education, Focus on Understanding Educators",
-    "authors": "Kizilcec, R. F. (2024)",
-    "details": "International Journal of Artificial Intelligence in Education.",
-    "link": "https://link.springer.com/article/10.1007/s40593-023-00351-4"
+    "title": "Advancing equity and inclusion in educational practices with AI‐powered educational decision support systems (AI‐EDSS)",
+    "authors": "Viberg, O., Kizilcec, R. F., Wise, A. F., Jivet, I., & Nixon, N. (2024).",
+    "details": "British Journal of Educational Technology, 55(5), 1974-1981.",
+    "link": "https://bera-journals.onlinelibrary.wiley.com/doi/abs/10.1111/bjet.13507",
+    "award": false
   },
   {
     "year": 2024,
-    "title": "Remote Learning and Work",
-    "authors": "Kizilcec, R., & Mitchell, J. (2024)",
-    "details": "IEEE Internet Computing, 28(1), 7-9.",
-    "link": "https://ieeexplore.ieee.org/abstract/document/10438951"
+    "title": "Cultural bias and cultural alignment of large language models.",
+    "authors": "Tao, Y., Viberg, O., Baker, R. S., & Kizilcec, R. F. (2024).",
+    "details": "PNAS nexus, 3(9), p. 346.",
+    "link": "https://academic.oup.com/pnasnexus/article/3/9/pgae346/7756548",
+    "award": false
   },
   {
     "year": 2024,
-    "title": "Human-machine interaction: AI-assisted medicine, instead of AI-driven medicine",
-    "authors": "Kizilcec, R. F., Shung, D. L., & Sung, J. J. (2024)",
-    "details": "In Artificial Intelligence in Medicine (pp. 131-140). Academic Press.",
-    "link": ""
+    "title": "Cultural differences in students’ privacy concerns in learning analytics across Germany, South Korea, Spain, Sweden, and the United States.",
+    "authors": "Viberg, O., Kizilcec, R. F., Jivet, I., Monés, A. M., Oh, A., Mutimukwe, C., Hrastinski, S., & Scheffel, M. (2024).",
+    "details": "Computers in Human Behavior Reports, 14, 100416.",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2451958824000496",
+    "award": false
   },
   {
     "year": 2024,
-    "title": "Standing up to problematic content on social media: which objection strategies draw the audience’s approval?",
-    "authors": "Zhao, P., Bazarova, N. N., DiFranzo, D., Hui, W., Kizilcec, R. F., & Margolin, D. (2024)",
-    "details": "Journal of Computer-Mediated Communication, 29(1).",
-    "link": "https://academic.oup.com/jcmc/article/29/1/zmad046/7477881"
+    "title": "Ending Affirmative Action Harms Diversity Without Improving Academic Merit",
+    "authors": "Lee, J.*, Harvey, E.*, Zhou, J., Garg, N., Joachims, T., & Kizilcec, R. F. 2024.",
+    "details": "In Equity and Access in Algorithms, Mechanisms, and Optimization (EAAMO '24), October 29&#8211;31, 2024, San Luis Potosi, Mexico. ACM, New York, NY, USA 17 Pages.",
+    "link": "https://arxiv.org/pdf/2407.11199v1",
+    "award": false
   },
   {
     "year": 2024,
-    "title": "A new model of trust based on neural information processing",
-    "authors": "Allen, S. E., Kizilcec, R. F., & Redish, A. D. (Forthcoming, 2024)",
-    "details": "arXiv preprint arXiv:2401.08064.",
-    "link": "https://arxiv.org/pdf/2401.08064"
-  },
-  {
-    "year": 2024,
-    "title": "Implementing New Technology in Educational Systems",
-    "authors": "Allen, S., Bardach, L., Jirout, J., Mackey, A., McCoy, D., Pesando, L. M., & Kizilcec, R. (Forthcoming, 2024)",
-    "details": "arXiv preprint arXiv:2409.12039.",
-    "link": "https://arxiv.org/pdf/2409.12039"
+    "title": "Enhancing Tutoring Effectiveness Through Automated Feedback: Preliminary Findings from a Pilot Randomized Controlled Trial on SAT Tutoring",
+    "authors": "Yun, J.*, Hicke, Y.*, Olson, M., & Demszky, D. (2024)",
+    "details": "Proceedings of the Eleventh ACM Conference on Learning@ Scale, 422-426.",
+    "link": "https://dl.acm.org/doi/pdf/10.1145/3657604.3664681",
+    "award": false
   },
   {
     "year": 2024,
     "title": "From Consumers to Critical Users: Prompty, an AI Literacy Tool for High School Students",
-    "authors": "Varuvel Dennison, D., Garcia, R. C. C., Sarin, P., Wolf, J., Bywater, C., Xie, B., & Lee, V. R. (2024)",
+    "authors": "Varuvel Dennison, D., Garcia, R. C. C., Sarin, P., Wolf, J., Bywater, C., Xie, B., & Lee, V. R. (2024).",
     "details": "Proceedings of the AAAI Conference on Artificial Intelligence, 38(21), 23300-23308.",
-    "link": "https://ojs.aaai.org/index.php/AAAI/article/view/30378"
+    "link": "https://ojs.aaai.org/index.php/AAAI/article/view/30378",
+    "award": false
+  },
+  {
+    "year": 2024,
+    "title": "Grading and Clustering Student Programs That Produce Probabilistic Output",
+    "authors": "Kim, Y.*, Geathers, J.*, & Piech, C. (2024).",
+    "details": "Proceedings of the 2024 Conference on Educational Data Mining (EDM).",
+    "link": "https://educationaldatamining.org/edm2024/proceedings/2024.EDM-long-papers.4/2024.EDM-long-papers.4.pdf",
+    "award": false
+  },
+  {
+    "year": 2024,
+    "title": "Human-Algorithmic Interaction Using a Large Language Model-Augmented Artificial Intelligence Clinical Decision Support System.",
+    "authors": "Rajashekar, N.C., Shin, Y.E., Pu, Y., Chung, S., You, K., Giuffre, M., Chan, C.E., Saarinen, T., Hsiao, A., Sekhon, J., Wong, A.H., Evans, L.V., Kizilcec, R.F. Laine, L., Mccall, T., & Shung, D. (2024)",
+    "details": "In Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems. ACM.",
+    "link": "https://dl.acm.org/doi/full/10.1145/3613904.3642024",
+    "award": false
+  },
+  {
+    "year": 2024,
+    "title": "Human-machine interaction: AI-assisted medicine, instead of AI-driven medicine. In Artificial Intelligence in Medicine (pp. 131-140)",
+    "authors": "Kizilcec, R. F., Shung, D. L., & Sung, J. J. (2024).",
+    "details": "Academic Press.",
+    "link": "https://www.sciencedirect.com/science/article/abs/pii/B9780323950688000108",
+    "award": false
+  },
+  {
+    "year": 2024,
+    "title": "Implementing New Technology in Educational Systems",
+    "authors": "Allen, S., Bardach, L., Jirout, J., Mackey, A., McCoy, D., Pesando, L. M., & Kizilcec, R. (Forthcoming, 2024).",
+    "details": "arXiv preprint arXiv:2409.12039.",
+    "link": "https://arxiv.org/pdf/2409.12039",
+    "award": false
+  },
+  {
+    "year": 2024,
+    "title": "Large language models, social demography, and hegemony: comparing authorship in human and synthetic text",
+    "authors": "Alvero, AJ., Lee, J., Regla-Vargas, A., Kizilec, R., Joachims, T., & Antonio, A. L. (2024)",
+    "details": "Journal of Big Data 11, 138.",
+    "link": "https://rene.kizilcec.com/wp-content/uploads/2024/09/alvero2024llm.pdf",
+    "award": false
+  },
+  {
+    "year": 2024,
+    "title": "Multilingualism and mismatching: Spanish language usage in college admissions essays",
+    "authors": "Alvero, AJ., & Pattichis, R. (2024).",
+    "details": "Poetics, 105, 101903.",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0304422X24000421",
+    "award": false
+  },
+  {
+    "year": 2024,
+    "title": "Perceived impact of generative AI on assessments: Comparing educator and student perspectives in Australia, Cyprus, and the United States.",
+    "authors": "Kizilcec, R. F., Huber, E., Papanastasiou, E. C., Cram, A., Makridis, C. A., Smolansky, A., Zeivots, S., & Raduescu, C. (2024).",
+    "details": "Computers and Education: Artificial Intelligence, 7, 100269.",
+    "link": "https://www.sciencedirect.com/science/article/pii/S2666920X24000729",
+    "award": false
+  },
+  {
+    "year": 2024,
+    "title": "Remote Learning and Work",
+    "authors": "Kizilcec, R., & Mitchell, J. (2024).",
+    "details": "IEEE Internet Computing, 28(1), 7-9.",
+    "link": "https://ieeexplore.ieee.org/abstract/document/10438951",
+    "award": false
+  },
+  {
+    "year": 2024,
+    "title": "Showing authentic examples of academic and career trajectories to influence college students’ career exploration.",
+    "authors": "Chen, Y., & Kizilcec, R. F. (2024).",
+    "details": "Journal of Vocational Behavior, 153, 104026.",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0001879124000678",
+    "award": false
+  },
+  {
+    "year": 2024,
+    "title": "Standing up to problematic content on social media: which objection strategies draw the audience’s approval?",
+    "authors": "Zhao, P., Bazarova, N. N., DiFranzo, D., Hui, W., Kizilcec, R. F., & Margolin, D. (2024).",
+    "details": "Journal of Computer-Mediated Communication, 29(1).",
+    "link": "https://academic.oup.com/jcmc/article/29/1/zmad046/7477881",
+    "award": false
+  },
+  {
+    "year": 2024,
+    "title": "The life cycle of large language models in education: A framework for understanding sources of bias.",
+    "authors": "Lee, J., Hicke, Y., Yu, R., Brooks, C., & Kizilcec, R. F. (2024).",
+    "details": "British Journal of Educational Technology, 55(5), 1982-2002.",
+    "link": "https://bera-journals.onlinelibrary.wiley.com/doi/abs/10.1111/bjet.13505",
+    "award": false
+  },
+  {
+    "year": 2024,
+    "title": "Time to Degree, Identity, and Grant Writing: Lessons Learned From a Mixed-Methods Longitudinal Case Study of Biosciences PhD Students",
+    "authors": "Alvero, AJ., Peña, C., Moore, A. R., Luqueno, L., Barron, C. B., Steele, L., &#8230; & Botham, C. M. (2024).",
+    "details": "SAGE Open, 14(2), 21582440241253662.",
+    "link": "https://journals.sagepub.com/doi/full/10.1177/21582440241253662",
+    "award": false
+  },
+  {
+    "year": 2024,
+    "title": "To Advance AI Use in Education, Focus on Understanding Educators",
+    "authors": "Kizilcec, R. F. (2024).",
+    "details": "International Journal of Artificial Intelligence in Education.",
+    "link": "https://link.springer.com/article/10.1007/s40593-023-00351-4",
+    "award": false
   },
   {
     "year": 2024,
     "title": "Towards an Educator-Centered Method for Measuring Bias in Large Language Models",
     "authors": "Harvey, E., Koenecke, A., & Kizilcec, R. (2024)",
     "details": "AAAI 2024 Workshop on AI for Education. Spotlight Presentation.",
-    "link": "https://openreview.net/pdf?id=REidmDpL9r"
+    "link": "https://openreview.net/pdf?id=REidmDpL9r",
+    "award": false
   },
   {
     "year": 2024,
-    "title": "Grading and Clustering Student Programs That Produce Probabilistic Output",
-    "authors": "Kim, Y.*, Geathers, J.*, & Piech, C. (2024)",
-    "details": "Proceedings of the 2024 Conference on Educational Data Mining (EDM).",
-    "link": "https://educationaldatamining.org/edm2024/proceedings/2024.EDM-long-papers.4/2024.EDM-long-papers.4.pdf"
+    "title": "What Explains Teachers’ Trust of AI in Education across Six Countries?",
+    "authors": "Viberg, O., Cukurova, M., Feldman-Maggor, Y., Alexandron, G., Shirai, S., Kanemune, S., Wasson, B., Tømte, C., Spikol, D., Milrad, M. Coelho, R., Kizilcec, R. F. (2024).",
+    "details": "International Journal of Artificial Intelligence in Education.",
+    "link": "https://arxiv.org/abs/2312.01627",
+    "award": false
   },
   {
     "year": 2024,
-    "title": "Enhancing Tutoring Effectiveness Through Automated Feedback: Preliminary Findings from a Pilot Randomized Controlled Trial on AI-Enhanced Tutoring",
-    "authors": "Yun, J.*, Hicke, Y.*, Olson, M., & Demszky, D. (2024)",
-    "details": "Pilot study reported in AI for Education workshop proceedings.",
-    "link": ""
+    "title": "Which Planning Tactics Predict Online Course Completion?",
+    "authors": "Cho, J., Tao, Y., Yeomans, M., Tingley, D., & Kizilcec, R. F. (2024).",
+    "details": "In Proceedings of the International Conference on Learning Analytics and Knowledge (LAK).",
+    "link": "https://rene.kizilcec.com/wp-content/uploads/2023/12/cho2024planning.pdf",
+    "award": false
+  },
+  {
+    "year": 2023,
+    "title": "“It’s Nice to Mix Up the Rhythm”: Undergraduates’ Experiences in a Large Blended Learning Course in Information Science in the Context of COVID-19",
+    "authors": "Alon, L., Sung, S., & Kizilcec, R. F. (2023).",
+    "details": "iConference 2023. Lecture Notes in Computer Science, vol 13971. Springer.",
+    "link": "https://rene.kizilcec.com/wp-content/uploads/2023/03/Alon2023mix.pdf",
+    "award": false
+  },
+  {
+    "year": 2023,
+    "title": "A case study, review of current programs, and recommendations for instructors",
+    "authors": "Kizilcec, R. F. & Davis, D. (2023). Learning Analyitcs Education:",
+    "details": "In Olga Viberg and Åke Grönlund (Eds.). Practicable Learning Analytics. Springer Nature.",
+    "link": "https://rene.kizilcec.com/wp-content/uploads/2023/06/Learning_Analytics_Education.pdf",
+    "award": false
+  },
+  {
+    "year": 2023,
+    "title": "A Systemic Model of Academic (Mis)Conduct to Curb Cheating in Higher Education",
+    "authors": "Allen, S., & Kizilcec, R. F. (2023).",
+    "details": "Higher Education.",
+    "link": "https://link.springer.com/article/10.1007/s10734-023-01077-x",
+    "award": false
+  },
+  {
+    "year": 2023,
+    "title": "AI-TA: Towards an Intelligent Question-Answer Teaching Assistant using Open-Source LLMs",
+    "authors": "Hicke, Y.*, Agarwal, A.*, Ma, C.*, & Denny, P. (2023).",
+    "details": ", NeurIPS’23 Workshop: Generative AI for Education (GAIED).",
+    "link": "https://arxiv.org/pdf/2311.02775",
+    "award": false
+  },
+  {
+    "year": 2023,
+    "title": "Are MOOC learning designs culturally inclusive (enough)?",
+    "authors": "Rizvi, S., Rienties, B., Rogaten, J., & Kizilcec, R. F. (2023).",
+    "details": "Journal of Computer Assisted Learning.",
+    "link": "https://onlinelibrary.wiley.com/doi/full/10.1111/jcal.12883",
+    "award": false
+  },
+  {
+    "year": 2023,
+    "title": "Artificial intelligence in communication impacts language and social relationships",
+    "authors": "Hohenstein, J., Kizilcec, R. F., DiFranzo, D., Aghajari, Z., Mieczkowski, H., Levy, K., Naaman, M., Hancock, J., & Jung, M. F. (2023).",
+    "details": "Scientific Reports, 13(1), 5487.",
+    "link": "https://www.nature.com/articles/s41598-023-30938-9",
+    "award": false
+  },
+  {
+    "year": 2023,
+    "title": "Assessing the efficacy of large language models in generating accurate teacher responses",
+    "authors": "Hicke, Y., Masand, A., Guo, W., & Gangavarapu, T. (2023).",
+    "details": "ACL, Innovative Use of NLP for Building Educational Applications Workshop.",
+    "link": "https://arxiv.org/pdf/2307.04274",
+    "award": false
+  },
+  {
+    "year": 2023,
+    "title": "Augmenting Holistic Review in University Admission using Natural Language Processing for Essays and Recommendation Letters",
+    "authors": "Lee, J., Thymes, B., Zhou, J., Joachims, T., & Kizilcec, R. F. (2023).",
+    "details": "In Workshop Proceedings at the Intl. Conference on Artificial Intelligence in Education (AIED).",
+    "link": "https://rene.kizilcec.com/wp-content/uploads/2023/06/lee2023holistic.pdf",
+    "award": false
+  },
+  {
+    "year": 2023,
+    "title": "Cross-Institutional Transfer Learning for Educational Models: Implications for Model Performance, Fairness, and Equity",
+    "authors": "Gardner, J., Yu, R., Nguyen, Q., Brooks, C., & Kizilcec, R. F. (2023).",
+    "details": "In Proceedings of the ACM Conference on Fairness, Accountability, and Transparency (FAccT).",
+    "link": "https://arxiv.org/pdf/2305.00927",
+    "award": false
+  },
+  {
+    "year": 2023,
+    "title": "Evaluating a Learned Admission-Prediction Model as a Replacement for Standardized Tests in College Admissions",
+    "authors": "Lee, H., Kizilcec, R. F., & Joachims, T. (2023). Lee, H., Kizilcec, R. F., & Joachims, T. (2023).",
+    "details": "In Proceedings of the ACM Conference on Learning at Scale.",
+    "link": "https://rene.kizilcec.com/wp-content/uploads/2023/05/lee2023admission.pdf",
+    "award": true
+  },
+  {
+    "year": 2023,
+    "title": "From emergency to sustainable online learning: Changes and disparities in undergraduate course grades and experiences in the context of COVID-19",
+    "authors": "Alon, L., Sung, S., Cho, J., & Kizilcec, R. F. (2023).",
+    "details": "Computers & Education, 203(104870).",
+    "link": "https://rene.kizilcec.com/wp-content/uploads/2023/07/alon2023emergency.pdf",
+    "award": false
+  },
+  {
+    "year": 2023,
+    "title": "From pipelines to pathways in the study of academic progress",
+    "authors": "Kizilcec, R. F., Baker, R. B., Bruch, E., Cortes, K. E., Hamilton, L. T., Lang, D. N., Pardos, Z. A., Thompson, M. E., & Stevens, M. L. (2023).",
+    "details": "Science, 380(6643).",
+    "link": "https://www.science.org/stoken/author-tokens/ST-1163/full",
+    "award": false
+  },
+  {
+    "year": 2023,
+    "title": "Harnessing collective intelligence for the future of learning–a co-constructed research and development agenda",
+    "authors": "Misevic, D., Atal, I., Bedard, D., Cherel, E., Escamilla, J., Evans, L., … & Van Der Leeuw, S. (2023).",
+    "details": "Human Computation, 10(1), 1-30.",
+    "link": "http://www.thebartonmethod.com/index.php/jhc/article/view/141/123",
+    "award": false
+  },
+  {
+    "year": 2023,
+    "title": "The Role of Gender in Students’ Privacy Concerns about Learning Analytics: Evidence from five countries",
+    "authors": "Kizilcec, R.F., Viberg, O., Jivet, I., Martínez-Monés, A., Oh, A., Hrastinski, S., Mutimukwe, C., & Scheffel, M. (2023).",
+    "details": "In Proceedings of the ACM Conference on Learning Analytics and Knowledge (LAK 2023).",
+    "link": "https://rene.kizilcec.com/wp-content/uploads/2022/12/kizilcec2023privacy.pdf",
+    "award": true
+  },
+  {
+    "year": 2023,
+    "title": "The social consequences of machine allocation behavior: Fairness, interpersonal perceptions and performance",
+    "authors": "Claure, H., Kim, S., Kizilcec, R. F., & Jung, M. (2023).",
+    "details": "Computers in Human Behavior, 146, 107628.",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0747563222004484",
+    "award": false
+  },
+  {
+    "year": 2023,
+    "title": "Using Technology to Foster Equitable Access and Diverse Learning Communities",
+    "authors": "Kizilcec, R. F., Mason, J., McCarthy, K., Rodrigo, M. M., & Rose, C. (2023).",
+    "details": "In Rapid Community Reports, Workshop Outcomes (pp. 1-9). International Society of the Learning Sciences.",
+    "link": "https://researchers.cdu.edu.au/en/publications/using-technology-to-foster-equitable-access-and-diverse-learning-",
+    "award": false
+  },
+  {
+    "year": 2022,
+    "title": "Coding with purpose: Learning AI in rural California",
+    "authors": "Tena-Meza, S., Suzara, M., & Alvero, AJ. (2022).",
+    "details": "ACM Transactions on Computing Education (TOCE), 22(3), 1-18.",
+    "link": "https://dl.acm.org/doi/full/10.1145/3513137",
+    "award": false
+  },
+  {
+    "year": 2022,
+    "title": "Culturally-Adaptive Learning Design: A Mixed-method Study of Cross-Cultural Learning Design Preferences in MOOCs",
+    "authors": "Rizvi, S., Rienties, B., Rogaten, J., & Kizilcec, R. F. (2022).",
+    "details": "In B. Rienties, R. Hampel, E. Scanlon, D. Whitelock (Eds.), Open World Learning: What Works?, Routledge.",
+    "link": "https://oro.open.ac.uk/84219/",
+    "award": false
+  },
+  {
+    "year": 2022,
+    "title": "Effects of Framing Professional Development as a Career Growth Opportunity on Course Completion.",
+    "authors": "Kizilcec, R. F., Mimno, J. A., & Karhan, A. J. (2022).",
+    "details": "In Proceedings of the ACM Conference on Learning at Scale.",
+    "link": "https://rene.kizilcec.com/wp-content/uploads/2022/05/kizilcec2022effects.pdf",
+    "award": false
+  },
+  {
+    "year": 2022,
+    "title": "How to Assess Student Learning in Information Science: Exploratory Evidence from Large College Courses",
+    "authors": "Sung, S., Alon, L., Cho, J., & Kizilcec, R. F. (2022).",
+    "details": "In Proceedings of the 85th Annual Meeting of the Association for Information Science & Technology (ASIS&T 2022).",
+    "link": "https://asistdl.onlinelibrary.wiley.com/doi/full/10.1002/pra2.659",
+    "award": false
+  },
+  {
+    "year": 2022,
+    "title": "Large-Scale Analysis of Discussion Networks in College Courses.",
+    "authors": "Williamson, K. & Kizilcec, R. F. (2022).",
+    "details": "In Proceedings of the ACM Conference on Learning at Scale.",
+    "link": "https://rene.kizilcec.com/wp-content/uploads/2022/05/williamson2022discussion.pdf",
+    "award": false
+  },
+  {
+    "year": 2022,
+    "title": "Large-Scale Student Data Reveal Sociodemographic Gaps in Procrastination Behavior.",
+    "authors": "Sabnis, S., Yu, R., & Kizilcec, R. F. (2022).",
+    "details": "In Proceedings of the ACM Conference on Learning at Scale.",
+    "link": "https://rene.kizilcec.com/wp-content/uploads/2022/05/sabnis2022procrastination.pdf",
+    "award": true
+  },
+  {
+    "year": 2022,
+    "title": "Linguistic, cultural, and narrative capital: computational and human readings of transfer admissions essays",
+    "authors": "Alvero, AJ., Pal, J., & Moussavian, K. M. (2022).",
+    "details": "Journal of Computational Social Science, 5(2), 1709-1734.",
+    "link": "https://link.springer.com/article/10.1007/s42001-022-00185-5",
+    "award": false
+  },
+  {
+    "year": 2022,
+    "title": "Measuring Cultural Dimensions of Learning in Online Courses.",
+    "authors": "Cho, J., Li, Y., Krasny, M. E., & Kizilcec, R. F. (2022).",
+    "details": "In Proceedings of the ACM Conference on Learning at Scale.",
+    "link": "https://rene.kizilcec.com/wp-content/uploads/2022/05/cho2022measuring.pdf",
+    "award": false
+  },
+  {
+    "year": 2022,
+    "title": "Pathways: Exploring Academic Interests with Historical Course Enrollment Records.",
+    "authors": "Chen, Y., Fu, A., Lee, J., Wilkie Tomaski, I., & Kizilcec, R. F. (2022).",
+    "details": "In Proceedings of the ACM Conference on Learning at Scale.",
+    "link": "https://rene.kizilcec.com/wp-content/uploads/2022/05/chen2022pathways.pdf",
+    "award": false
+  },
+  {
+    "year": 2022,
+    "title": "Review of Learning Analytics Dashboard Research in Higher Education: Implications for Justice, Equity, Diversity, and Inclusion",
+    "authors": "Williamson, K. & Kizilcec, R. F. (2022).",
+    "details": "In Proceedings of the 12th International Conference on Learning Analytics and Knowledge (LAK) .",
+    "link": "https://rene.kizilcec.com/wp-content/uploads/2022/01/williamson2022review.pdf",
+    "award": false
+  },
+  {
+    "year": 2022,
+    "title": "Review of Learning Analytics Dashboard Research in Higher Education: Implications for Justice, Equity, Diversity, and Inclusion",
+    "authors": "Williamson, K. & Kizilcec, R. F. (2022).",
+    "details": "In Proceedings of the 12th International Conference on Learning Analytics and Knowledge (LAK) .",
+    "link": "https://rene.kizilcec.com/wp-content/uploads/2022/01/williamson2022review.pdf",
+    "award": false
+  },
+  {
+    "year": 2022,
+    "title": "Signaled or suppressed? how gender informs women’s undergraduate applications in biology and engineering",
+    "authors": "Giebel, S., Alvero, AJ., Gebre-Medhin, B., & Antonio, A. L. (2022).",
+    "details": "Socius, 8, 23780231221127537.",
+    "link": "https://journals.sagepub.com/doi/full/10.1177/23780231221127537",
+    "award": false
+  },
+  {
+    "year": 2021,
+    "title": "Applying the Behavior Change Taxonomy from Public Health Interventions to Education Research",
+    "authors": "Cho, J. & Kizilcec, R. F. (2021).",
+    "details": "In Proceedings of the ACM Conference on Learning at Scale (L@S) .",
+    "link": "https://rene.kizilcec.com/wp-content/uploads/2021/05/cho2021bct.pdf",
+    "award": false
+  },
+  {
+    "year": 2021,
+    "title": "Beyond One-Size-Fits-All in MOOCs: Variation in Learning Design and Persistence of Learners in Different Cultural and Socioeconomic Contexts.",
+    "authors": "Rizvi, S., Rienties, B., Rogaten, J., & Kizilcec, R. F. (2021).",
+    "details": "Computers in Human Behavior , 126, 106973.",
+    "link": "https://www.sciencedirect.com/science/article/pii/S074756322100296X",
+    "award": false
+  },
+  {
+    "year": 2021,
+    "title": "Combatting sharenting: Interventions to alter parents’ attitudes towards posting about their children online.",
+    "authors": "Williams-Ceci, S., Grose, G. E., Pinch, A. C., Kizilcec, R. F., & Lewis, N. A. (2021).",
+    "details": "Computers in Human Behavior .",
+    "link": "https://www.sciencedirect.com/science/article/abs/pii/S0747563221002624",
+    "award": false
+  },
+  {
+    "year": 2021,
+    "title": "Delivery Ghost: Effects of Language Immersion and Interactivity in a Language Learning Game",
+    "authors": "Cho, J. & Kizilcec, R. F. (2021).",
+    "details": "In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI) .",
+    "link": "https://dl.acm.org/doi/fullHtml/10.1145/3411763.3451767",
+    "award": false
+  },
+  {
+    "year": 2021,
+    "title": "Development and Application of an AI-Powered Adaptive Course Recommender System in Higher Education: An Example From K University",
+    "authors": "Lee, J., Moon, K., Han, S., Lee, S., Kwon, H., Han, J., & Kim, G. 2021.",
+    "details": "Journal of Educational Technology, 37(2), 267-307",
+    "link": "https://www.researchgate.net/publication/352876624_Development_and_Application_of_an_AI-Powered_Adaptive_Course_Recommender_System_in_Higher_Education_An_Example_from_K_University",
+    "award": false
+  },
+  {
+    "year": 2021,
+    "title": "Early Prediction Model of Student Performance Based on Deep Neural Network Using Massive LMS Log Data",
+    "authors": "Moon, K., Kim, J., & Lee, J. 2021.",
+    "details": "The Journal of the Korea Contents Association, 21(10), 1-10 Conference Proceedings",
+    "link": "https://www.semanticscholar.org/paper/Early-Prediction-Model-of-Student-Performance-Based-%EB%94%94%EC%A7%80%ED%84%B8%EC%A0%95%EB%B3%B4%EC%B2%98/b1f4d0d21361152f8e6730e95ac34000a7a36ec7",
+    "award": false
+  },
+  {
+    "year": 2021,
+    "title": "Effects of Algorithmic Transparency in Bayesian Knowledge Tracing on Trust and Perceived Accuracy.",
+    "authors": "Williamson, K. & Kizilcec, R. F. (2021).",
+    "details": "In Proceedings of the Conference on Educational Data Mining (EDM).",
+    "link": "https://educationaldatamining.org/EDM2021/virtual/static/pdf/EDM21_paper_145.pdf",
+    "award": false
+  },
+  {
+    "year": 2021,
+    "title": "Essay content and style are strongly related to household income and SAT scores: Evidence from 60,000 undergraduate applications",
+    "authors": "Alvero, AJ., Giebel, S., Gebre-Medhin, B., Antonio, A. L., Stevens, M. L., & Domingue, B. W. (2021).",
+    "details": "Science Advances, 7(42), eabi9031.",
+    "link": "https://www.science.org/doi/full/10.1126/sciadv.abi9031",
+    "award": false
+  },
+  {
+    "year": 2021,
+    "title": "How Does Active Learning Change Undergraduate Learning Experiences? A Case of a Large Technology Design Course",
+    "authors": "Alon, L., Sung, S. & Kizilcec, R.F. (2021).",
+    "details": "In T. Bastiaens (Ed.), Proceedings of Innovate Learning Summit 2021 (pp. 201-208).",
+    "link": "https://www.learntechlib.org/primary/p/220287/",
+    "award": false
+  },
+  {
+    "year": 2021,
+    "title": "Learning Analytics Dashboard Research Has Neglected Diversity, Equity, and Inclusion",
+    "authors": "Williamson, K. & Kizilcec, R. F. (2021).",
+    "details": "In Proceedings of the ACM Conference on Learning at Scale (L@S).",
+    "link": "https://rene.kizilcec.com/wp-content/uploads/2021/05/williamson2021dashboard.pdf",
+    "award": false
+  },
+  {
+    "year": 2021,
+    "title": "Mobile Learning During School Disruptions in Sub-Saharan Africa.",
+    "authors": "Kizilcec, R. F., Chen, M., Jasinska, K., Madaio, M., & Ogan, A. (2021).",
+    "details": "AERA Open, 7 .",
+    "link": "https://journals.sagepub.com/doi/full/10.1177/23328584211014860",
+    "award": false
+  },
+  {
+    "year": 2021,
+    "title": "Online Learning and Social Norms: Evidence from a Cross-Cultural Field Experiment in a Course for a Cause.",
+    "authors": "Cho, J., Li, Y., Krasny, M. E., Russ, A., & Kizilcec, R. F. (2021).",
+    "details": "Computer-based Learning in Context, 3 (1), 18-36.",
+    "link": "https://rene.kizilcec.com/wp-content/uploads/2021/09/cho2021norms.pdf",
+    "award": false
+  },
+  {
+    "year": 2021,
+    "title": "Pandemic Response Policies' Democratizing Effects on Online Learning",
+    "authors": "Kizilcec, R. F., Makridis, C., & Sadowski, K. C. (2021).",
+    "details": "Proceedings of the National Academy of Sciences (PNAS), 118 (11).",
+    "link": "https://www.pnas.org/content/118/11/e2026725118.long",
+    "award": false
+  },
+  {
+    "year": 2021,
+    "title": "Should College Dropout Prediction Models Include Protected Attributes?",
+    "authors": "Yu, R., Lee, H., & Kizilcec, R. F. (2021).",
+    "details": "In Proceedings of the ACM Conference on Learning at Scale (L@S).",
+    "link": "https://rene.kizilcec.com/wp-content/uploads/2021/05/yu2021should.pdf",
+    "award": true
+  },
+  {
+    "year": 2021,
+    "title": "Student perceptions of pre-assessments: “It’s basically just guessing anyways.”",
+    "authors": "Allen, S. E., Phillips, A. M., & Kizilcec, R. F. (2021).",
+    "details": "Proceedings of the Physics Education Research conference.",
+    "link": "https://ui.adsabs.harvard.edu/abs/2021perc.conf...27A/abstract",
+    "award": false
+  },
+  {
+    "year": 2021,
+    "title": "Student Perceptions of Social Support in the Transition to Emergency Remote Instruction",
+    "authors": "Cho, J., Tomasik, I., Yang, H., & Kizilcec, R. F. (2021).",
+    "details": "In Proceedings of the ACM Conference on Learning at Scale (L@S).",
+    "link": "https://rene.kizilcec.com/wp-content/uploads/2021/05/cho2021student.pdf",
+    "award": true
+  },
+  {
+    "year": 2021,
+    "title": "Studying Undergraduate Course Consideration at Scale",
+    "authors": "Chaturapruek, S., Dalberg, T., Thompson, M. E., Giebel, S., Harrison, M., Johari, R., Stevens, M. L., & Kizilcec, R. F. (2021).",
+    "details": "AERA Open, 7 .",
+    "link": "https://journals.sagepub.com/doi/full/10.1177/2332858421991148",
+    "award": false
+  },
+  {
+    "year": 2021,
+    "title": "Using Social Norms to Promote Actions Beyond the Course",
+    "authors": "Cho, J., Li, Y., Armstrong, A., Russ, A., Krasny, M. E., & Kizilcec, R. F. (2021).",
+    "details": "In Proceedings of the ACM Conference on Learning at Scale (L@S) .",
+    "link": "https://rene.kizilcec.com/wp-content/uploads/2021/05/cho2021using.pdf",
+    "award": false
+  },
+  {
+    "year": 2020,
+    "title": "A System for Recommending University Liberal Arts Courses Using Collaborative Filtering",
+    "authors": "Kim, D., Shin, W., Han, K., Lee, J., Moon, K., Lee, S., Han, S., Kwon, H., & Han, S. 2020.",
+    "details": "Fall 2020 Conference of Korean Institute of Industrial Engineers Book Chapters",
+    "link": "https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE10505801",
+    "award": false
+  },
+  {
+    "year": 2020,
+    "title": "AI and holistic review: informing human reading in college admissions",
+    "authors": "Alvero, AJ., Arthurs, N., Antonio, A. L., Domingue, B. W., Gebre-Medhin, B., Giebel, S., & Stevens, M. L. (2020, February).",
+    "details": "In Proceedings of the AAAI/ACM Conference on AI, Ethics, and Society (pp. 200-206).",
+    "link": "https://dl.acm.org/doi/abs/10.1145/3375627.3375871",
+    "award": false
+  },
+  {
+    "year": 2020,
+    "title": "Evaluation of Fairness Trade-offs in Predicting Student Success.",
+    "authors": "Lee, H. & Kizilcec, R. F. (2020).",
+    "details": "In Proceedings of the Conference on Educational Data Mining (EDM) Fairness, Accountability, and Transparency in Educational Data (FATED) Workshop .",
+    "link": "https://arxiv.org/abs/2007.00088",
+    "award": false
+  },
+  {
+    "year": 2020,
+    "title": "Examining Sources of Variation in Student Confusion in College Classes.",
+    "authors": "Chen, Y. & Kizilcec, R. F. (2020).",
+    "details": "In Proceedings of the ACM Conference on Learning at Scale (L@S). Virtual Event, USA.",
+    "link": "https://rene.kizilcec.com/wp-content/uploads/2020/06/chen2020confusion.pdf",
+    "award": false
+  },
+  {
+    "year": 2020,
+    "title": "Identifying course characteristics associated with sociodemographic variation in enrollments across 159 online courses from 20 institutions",
+    "authors": "Kizilcec, R. F. & Kambhampaty, A. (2020).",
+    "details": "PloS one, 15 (10), e0239766.",
+    "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0239766",
+    "award": false
+  },
+  {
+    "year": 2020,
+    "title": "Online Education Platforms Scale College STEM Instruction with Equivalent Learning Outcomes at Lower Cost.",
+    "authors": "Chirikov, I., Semenova, T. Maloshonok, N., Bettinger, E., Kizilcec, R. F. (2020).",
+    "details": "Science Advances, 6 (15).",
+    "link": "https://advances.sciencemag.org/content/6/15/eaay5324",
+    "award": false
+  },
+  {
+    "year": 2020,
+    "title": "Scaling Up Behavioral Science Interventions in Online Education.",
+    "authors": "Kizilcec, R. F., Reich, J., Yeomans, M., Dann, C., Brunskill, E., Lopez, D., Turkay, S., Williams, J., & Tingley, D. (2020).",
+    "details": "Proceedings of the National Academy of Sciences (PNAS) .",
+    "link": "https://www.pnas.org/content/early/2020/06/11/1921417117",
+    "award": false
+  },
+  {
+    "year": 2020,
+    "title": "Student Engagement in Mobile Learning via Text Message.",
+    "authors": "Kizilcec, R. F. & Chen, M. (2020).",
+    "details": "In Proceedings of the ACM Conference on Learning at Scale (L@S). Virtual Event, USA.",
+    "link": "https://rene.kizilcec.com/wp-content/uploads/2020/06/kizilcec2020mobile.pdf",
+    "award": false
+  },
+  {
+    "year": 2020,
+    "title": "Welcome to the Course: Early Social Cues Influence Women's Persistence in Computer Science.",
+    "authors": "Kizilcec, R. F., Saltarelli, A. J., Bonfert-Taylor, P., Goudzwaard, M., Hamonic, E., & Sharrock, R. (2020).",
+    "details": "In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI). Honolulu, HI, USA.",
+    "link": "https://rene.kizilcec.com/wp-content/uploads/2020/02/kizilcec2020welcome.pdf",
+    "award": false
+  },
+  {
+    "year": 2020,
+    "title": "Whose Truth Is the \"Ground Truth\"? College Admissions Essays and Bias in Word Vector Evaluation Methods",
+    "authors": "Arthurs, N., & Alvero, AJ. (2020).",
+    "details": "International Educational Data Mining Society.",
+    "link": "https://eric.ed.gov/?id=ED608067",
+    "award": false
   },
   {
     "year": 2019,
-    "title": "Growth Mindset Predicts Student Achievement and Behavior in Mobile Learning",
-    "authors": "Kizilcec, R. F., & Goldfarb, D. (2019)",
-    "details": "Proceedings of the ACM Conference on Learning at Scale (L@S). Chicago, IL, USA.",
-    "link": "http://rene.kizilcec.com/wp-content/uploads/2019/05/kizilcec2019mindset.pdf"
+    "title": "Can a diversity statement increase diversity in MOOCs?",
+    "authors": "Kizilcec, R. F. & Saltarelli, A. J. (2019).",
+    "details": "In Proceedings of the ACM Conference on Learning at Scale (L@S). Chicago, IL, USA.",
+    "link": "http://rene.kizilcec.com/wp-content/uploads/2019/05/kizilcec2019diversity.pdf",
+    "award": true
+  },
+  {
+    "year": 2019,
+    "title": "Growth Mindset Predicts Student Achievement and Behavior in Mobile Learning.",
+    "authors": "Kizilcec, R. F. & Goldfarb, D. (2019).",
+    "details": "In Proceedings of the ACM Conference on Learning at Scale (L@S). Chicago, IL, USA.",
+    "link": "http://rene.kizilcec.com/wp-content/uploads/2019/05/kizilcec2019mindset.pdf",
+    "award": false
+  },
+  {
+    "year": 2019,
+    "title": "How Teachers in India Reconfigure their Work Practices around a Teacher-Oriented Technology Intervention.",
+    "authors": "Varanasi, R. A., Kizilcec, R. F., Dell, N. (2019)",
+    "details": "Proceedings of the ACM: Human-Computer Interaction.",
+    "link": "https://rene.kizilcec.com/wp-content/uploads/2019/09/varanasi2020teachers.pdf",
+    "award": false
+  },
+  {
+    "year": 2019,
+    "title": "Investigating Variation in Learning Processes in a FutureLearn MOOC.",
+    "authors": "Rizvi, S., Rienties, B., Rogaten, J., Kizilcec, R. F. (2019).",
+    "details": "Journal of Computing in Higher Education.",
+    "link": "https://rene.kizilcec.com/wp-content/uploads/2019/06/rizvi2019process.pdf",
+    "award": false
+  },
+  {
+    "year": 2019,
+    "title": "Psychologically Inclusive Design: Cues impact women’s participation in STEM education.",
+    "authors": "Kizilcec, R. F. & Saltarelli, A. J. (2019).",
+    "details": "In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI). Glasgow, Scotland.",
+    "link": "http://rene.kizilcec.com/wp-content/uploads/2019/05/kizilcec2019pid.pdf",
+    "award": false
   },
   {
     "year": 2018,
-    "title": "Scaling Effective Learning Strategies: Retrieval Practice and Long-Term Knowledge Retention in MOOCs",
-    "authors": "Davis, D., Kizilcec, R. F., Hauff, C., & Houben, G.-J. (2018)",
-    "details": "Journal of Learning Analytics, 5(3), 21–41.",
-    "link": "http://rene.kizilcec.com/wp-content/uploads/2019/01/davis2018scaling.pdf"
+    "title": "How a data-driven course planning tool affects college students’ GPA: Evidence from two field experiments.",
+    "authors": "Chaturapruek, S., Dee, T. S., Johari, R., Kizilcec, R. F., & Stevens, M. L. (2018).",
+    "details": "In Proceedings of the Fifth ACM Conference on Learning at Scale (L@S) . London, UK.",
+    "link": "http://rene.kizilcec.com/wp-content/uploads/2018/04/chaturapruek2018gpa.pdf",
+    "award": true
   },
   {
     "year": 2018,
-    "title": "The Half-Life of MOOC Knowledge: A Randomized Trial Evaluating the Testing Effect in MOOCs",
-    "authors": "Davis, D., Kizilcec, R. F., Hauff, C., & Houben, G.-J. (2018)",
-    "details": "Proceedings of the 8th International Conference on Learning Analytics and Knowledge (LAK). Sydney, Australia.",
-    "link": "http://rene.kizilcec.com/wp-content/uploads/2013/02/davis2018halflife.pdf"
+    "title": "Mining theory-based patterns from Big data: Identifying self-regulated learning strategies in Massive Open Online Courses.",
+    "authors": "Maldonado-Mahauad, J., Pérez-Sanagustín, M., Kizilcec, R. F., Morales, N., & Munoz-Gama, J. (2018).",
+    "details": "Computers in Human Behavior , 80, 179-196.",
+    "link": "http://rene.kizilcec.com/wp-content/uploads/2013/02/maldonado2018mining.pdf",
+    "award": false
   },
   {
     "year": 2018,
-    "title": "Mining theory-based patterns from Big data: Identifying self-regulated learning strategies in MOOCs",
-    "authors": "Maldonado-Mahauad, J., Pérez-Sanagustín, M., Kizilcec, R. F., Morales, N., & Munoz-Gama, J. (2018)",
-    "details": "Computers in Human Behavior, 80, 179-196.",
-    "link": ""
+    "title": "Scaling Effective Learning Strategies: Retrieval Practice and Long-Term Knowledge Retention in MOOCs.",
+    "authors": "Davis, D., Kizilcec, R. F., Hauff, C., & Houben, G.-J. (2018).",
+    "details": "Journal of Learning Analytics, 5 (3), 21–41.",
+    "link": "http://rene.kizilcec.com/wp-content/uploads/2019/01/davis2018scaling.pdf",
+    "award": false
   },
   {
     "year": 2018,
-    "title": "How a data-driven course planning tool affects college students’ GPA: Evidence from two field experiments",
-    "authors": "Chaturapruek, S., Dee, T. S., Johari, R., Kizilcec, R. F., & Stevens, M. L. (2018)",
-    "details": "Proceedings of the Fifth ACM Conference on Learning at Scale (L@S). London, UK. Best Paper Award.",
-    "link": "http://rene.kizilcec.com/wp-content/uploads/2018/04/chaturapruek2018gpa.pdf"
+    "title": "Social Influence and Reciprocity in Online Gift Giving.",
+    "authors": "Kizilcec, R. F., Bakshy, E., Eckles, D., & Burke, M. (2018).",
+    "details": "In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI). Montreal, Canada.",
+    "link": "http://rene.kizilcec.com/wp-content/uploads/2018/03/kizilcec2018gifting.pdf",
+    "award": false
   },
   {
     "year": 2018,
-    "title": "Social Influence and Reciprocity in Online Gift Giving",
-    "authors": "Kizilcec, R. F., Bakshy, E., Eckles, D., & Burke, M. (2018)",
-    "details": "Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI). Montreal, Canada.",
-    "link": "http://rene.kizilcec.com/wp-content/uploads/2018/03/kizilcec2018gifting.pdf"
+    "title": "The Half-Life of MOOC Knowledge: A Randomized Trial Evaluating the Testing Effect in MOOCs.",
+    "authors": "Davis, D., Kizilcec, R. F., Hauff, C., & Houben, G.-J. (2018).",
+    "details": "In Proceedings of the 8th International Conference on Learning Analytics and Knowledge (LAK). Sydney, Australia.",
+    "link": "http://rene.kizilcec.com/wp-content/uploads/2013/02/davis2018halflife.pdf",
+    "award": false
   },
   {
     "year": 2017,
-    "title": "Closing global achievement gaps in MOOCs",
-    "authors": "Kizilcec, R. F., Saltarelli, A. J., Reich, J., & Cohen, G. L. (2017)",
-    "details": "Science, 355(6322), 251-252.",
-    "link": "http://science.sciencemag.org/cgi/rapidpdf/355/6322/251?ijkey=KZ/y7LGbH0qes&amp;keytype=ref&amp;siteid=sci"
+    "title": "Closing global achievement gaps in MOOCs.",
+    "authors": "Kizilcec, R. F., Saltarelli, A. J., Reich, J., & Cohen, G. L. (2017).",
+    "details": "Science, 355(6322) , 251-252. ( Supporting Materials )",
+    "link": "http://science.sciencemag.org/cgi/rapidpdf/355/6322/251?ijkey=KZ/y7LGbH0qes&amp;keytype=ref&amp;siteid=sci",
+    "award": false
   },
   {
     "year": 2017,
-    "title": "Eight-minute self-regulation intervention improves educational attainment at scale in individualist but not collectivist cultures",
-    "authors": "Kizilcec, R. F., & Cohen, G. L. (2017)",
-    "details": "Proceedings of the National Academy of Sciences (PNAS), 114(17), 4348–4353.",
-    "link": "http://rene.kizilcec.com/wp-content/uploads/2017/05/kizilcec2017mcii.pdf"
+    "title": "Diverse Big Data and Randomized Field Experiments in MOOCs.",
+    "authors": "Kizilcec, R. F. & Brooks, C. (2017).",
+    "details": "In C. Lang, G. Siemens, A. Wise, D. Gašević (Eds.), Handbook of Learning Analytics (pp. 211-222). Society for Learning Analytics Research.",
+    "link": "http://rene.kizilcec.com/wp-content/uploads/2017/08/kizilcec2017diverse.pdf",
+    "award": false
   },
   {
     "year": 2017,
-    "title": "Towards Equal Opportunities in MOOCs: Affirmation Reduces Gender & Social-class Achievement Gaps in China",
-    "authors": "Kizilcec, R. F., Davis, G. M., & Cohen, G. L. (2017)",
-    "details": "Proceedings of the Fourth ACM Conference on Learning at Scale (L@S). Cambridge, MA. Best Paper Award.",
-    "link": "http://rene.kizilcec.com/wp-content/uploads/2017/02/kizilcec2017towards.pdf"
+    "title": "Eight-minute self-regulation intervention improves educational attainment at scale in individualist but not collectivist cultures.",
+    "authors": "Kizilcec, R. F. & Cohen, G. L. (2017).",
+    "details": "Proceedings of the National Academy of Sciences (PNAS), 114 (17), 4348–4353.",
+    "link": "http://rene.kizilcec.com/wp-content/uploads/2017/05/kizilcec2017mcii.pdf",
+    "award": false
   },
   {
     "year": 2017,
-    "title": "Follow the Successful Crowd: Raising MOOC Completion Rates through Social Comparison at Scale",
-    "authors": "Davis, D., Jivet, I., Kizilcec, R. F., Chen, G., Hauff, C., & Houben, G.-J. (2017)",
-    "details": "Proceedings of the 7th International Conference on Learning Analytics and Knowledge (LAK). Vancouver, Canada.",
-    "link": "http://rene.kizilcec.com/wp-content/uploads/2017/01/davis2017follow.pdf"
+    "title": "Follow the Successful Crowd: Raising MOOC Completion Rates through Social Comparison at Scale.",
+    "authors": "Davis, D., Jivet, I., Kizilcec, R. F., Chen, G., Hauff, C., & Houben, G.-J. (2017).",
+    "details": "In Proceedings of the 7th International Conference on Learning Analytics and Knowledge (LAK). Vancouver, Canada.",
+    "link": "http://rene.kizilcec.com/wp-content/uploads/2017/01/davis2017follow.pdf",
+    "award": false
   },
   {
     "year": 2017,
-    "title": "Diverse Big Data and Randomized Field Experiments in MOOCs",
-    "authors": "Kizilcec, R. F., & Brooks, C. (2017)",
-    "details": "In Lang, Siemens, Wise, & Gašević (Eds.), Handbook of Learning Analytics (pp. 211-222). SOLAR.",
-    "link": "http://rene.kizilcec.com/wp-content/uploads/2017/08/kizilcec2017diverse.pdf"
+    "title": "Self-Regulated Learning Strategies Predict Learner Behavior and Goal Attainment in Massive Open Online Courses.",
+    "authors": "Kizilcec, R. F., Perez-Sanagustin, M., & Maldonado, J. J. (2017).",
+    "details": "Computers & Education , 104, 19-33.",
+    "link": "http://rene.kizilcec.com/wp-content/uploads/2016/11/kizilcec2017srl.pdf",
+    "award": false
   },
   {
     "year": 2017,
-    "title": "Self-Regulated Learning Strategies Predict Learner Behavior and Goal Attainment in Massive Open Online Courses",
-    "authors": "Kizilcec, R. F., Perez-Sanagustin, M., & Maldonado, J. J. (2017)",
-    "details": "Computers & Education, 104, 19-33.",
-    "link": "http://rene.kizilcec.com/wp-content/uploads/2016/11/kizilcec2017srl.pdf"
+    "title": "Towards Equal Opportunities in MOOCs: Affirmation Reduces Gender & Social-class Achievement Gaps in China.",
+    "authors": "Kizilcec, R. F., Davis, G. M., & Cohen, G. L. (2017).",
+    "details": "In Proceedings of the Fourth ACM Conference on Learning at Scale (L@S) . Cambridge, MA.",
+    "link": "http://rene.kizilcec.com/wp-content/uploads/2017/02/kizilcec2017towards.pdf",
+    "award": true
   },
   {
     "year": 2016,
-    "title": "How Much Information?: Effects of Transparency on Trust in an Algorithmic Interface",
-    "authors": "Kizilcec, R. F. (2016)",
-    "details": "Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI). San Jose, CA.",
-    "link": "http://rene.kizilcec.com/wp-content/uploads/2016/01/kizilcec2016information.pdf"
+    "title": "Estimating peer effects in networks with peer encouragement designs.",
+    "authors": "Eckles, D., Kizilcec, R. F., & Bakshy, E. (2016).",
+    "details": "Proceedings of the National Academy of Sciences (PNAS), 113 (27), 7316-7322. ( Supporting Information )",
+    "link": "http://rene.kizilcec.com/wp-content/uploads/2016/07/eckles2016PNAS.pdf",
+    "award": false
   },
   {
     "year": 2016,
-    "title": "Recommending Self-Regulated Learning Strategies Does Not Improve Performance in a MOOC",
-    "authors": "Kizilcec, R. F., Perez-Sanagustin, M., & Maldonado, J. J. (2016)",
-    "details": "Proceedings of the Third ACM Conference on Learning at Scale (L@S). Edinburgh, UK.",
-    "link": "http://rene.kizilcec.com/wp-content/uploads/2016/02/kizilcec2016recommending.pdf"
+    "title": "How Much Information?: Effects of Transparency on Trust in an Algorithmic Interface.",
+    "authors": "Kizilcec, R. F. (2016).",
+    "details": "In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems, CHI 2016 . San Jose, CA.",
+    "link": "http://rene.kizilcec.com/wp-content/uploads/2016/01/kizilcec2016information.pdf",
+    "award": false
   },
   {
     "year": 2016,
-    "title": "Social Robots and Virtual Agents as Lecturers for Video Instruction",
-    "authors": "Li, J., Kizilcec, R. F., Bailenson, J. N., & Ju, W. (2016)",
-    "details": "Computers in Human Behavior, 55(B), 1222-1230.",
-    "link": "http://rene.kizilcec.com/wp-content/uploads/2013/02/li2015social.pdf"
+    "title": "Recommending Self-Regulated Learning Strategies Does Not Improve Performance in a MOOC.",
+    "authors": "Kizilcec, R. F., Perez-Sanagustin, M., & Maldonado, J. J. (2016).",
+    "details": "In Proceedings of the Third ACM Conference on Learning at Scale, L@S 2016 . Edinburgh, UK.",
+    "link": "http://rene.kizilcec.com/wp-content/uploads/2016/02/kizilcec2016recommending.pdf",
+    "award": false
   },
   {
     "year": 2016,
-    "title": "Estimating peer effects in networks with peer encouragement designs",
-    "authors": "Eckles, D., Kizilcec, R. F., & Bakshy, E. (2016)",
-    "details": "Proceedings of the National Academy of Sciences (PNAS), 113(27), 7316-7322.",
-    "link": "http://rene.kizilcec.com/wp-content/uploads/2016/07/eckles2016PNAS.pdf"
+    "title": "Social Robots and Virtual Agents as Lecturers for Video Instruction.",
+    "authors": "Li, J., Kizilcec, R. F., Bailenson, J. N., & Ju, W. (2016).",
+    "details": "Computers in Human Behavior, 55 (B), 1222-1230.",
+    "link": "http://rene.kizilcec.com/wp-content/uploads/2013/02/li2015social.pdf",
+    "award": false
+  },
+  {
+    "year": 2015,
+    "title": "Attrition and Achievement Gaps in Online Learning.",
+    "authors": "Kizilcec, R. F., & Halawa, S. A. (2015).",
+    "details": "In Proceedings of the Second ACM Conference on Learning at Scale, L@S 2015 . Vancouver, Canada.",
+    "link": "http://rene.kizilcec.com/wp-content/uploads/2013/02/kizilcec2015attrition.pdf",
+    "award": false
+  },
+  {
+    "year": 2015,
+    "title": "Motivation as a Lens to Understand Online Learners.",
+    "authors": "Kizilcec, R. F. & Schneider, E. (2015).",
+    "details": "ACM Transactions on Computer-Human Interaction (TOCHI), 22 (2).",
+    "link": "http://rene.kizilcec.com/wp-content/uploads/2013/02/kizilcec2015motivation.pdf",
+    "award": false
+  },
+  {
+    "year": 2015,
+    "title": "The Instructor’s Face in Video Instruction: Evidence from Two Large-Scale Field Studies.",
+    "authors": "Kizilcec, R. F., Bailenson, J. N., & Gomez, C. J. (2015).",
+    "details": "Journal of Educational Psychology, 107 (3), 724-739.",
+    "link": "http://rene.kizilcec.com/wp-content/uploads/2013/02/kizilcec2015instructor.pdf",
+    "award": false
   },
   {
     "year": 2015,
     "title": "To Play or not to Play: Response Quality and Task Complexity in Games and Paid Crowdsourcing",
-    "authors": "Krause, M., & Kizilcec, R. F. (2015)",
-    "details": "Proceedings of the Conference on Human Computation & Crowdsourcing (HCOMP). San Diego, CA.",
-    "link": "https://rene.kizilcec.com/wp-content/uploads/2016/01/krause2015play.pdf"
+    "authors": "Krause, M. & Kizilcec, R. F. (2015).",
+    "details": "In Proceedings of the Conference on Human Computation & Crowdsourcing, HCOMP 2015. San Diego, CA.",
+    "link": "https://rene.kizilcec.com/wp-content/uploads/2016/01/krause2015play.pdf",
+    "award": false
   },
   {
-    "year": 2015,
-    "title": "Motivation as a Lens to Understand Online Learners",
-    "authors": "Kizilcec, R. F., & Schneider, E. (2015)",
-    "details": "ACM Transactions on Computer-Human Interaction (TOCHI), 22(2).",
-    "link": "http://rene.kizilcec.com/wp-content/uploads/2013/02/kizilcec2015motivation.pdf"
+    "year": 2014,
+    "title": "Anonymity in Social Media: Effects of Content Controversiality and Social Endorsement on Sharing Behavior.",
+    "authors": "Zhang, K. & Kizilcec, R. F. (2014).",
+    "details": "In Proceedings of the 8th International Conference on Weblogs and Social Media, ICWSM 2014 . Ann Arbor, MI.",
+    "link": "http://rene.kizilcec.com/wp-content/uploads/2014/03/zhang_kizilcec_anonymity_icwsm2014.pdf",
+    "award": false
   },
   {
-    "year": 2015,
-    "title": "Attrition and Achievement Gaps in Online Learning",
-    "authors": "Kizilcec, R. F., & Halawa, S. A. (2015)",
-    "details": "Proceedings of the Second ACM Conference on Learning at Scale (L@S). Vancouver, Canada.",
-    "link": "http://rene.kizilcec.com/wp-content/uploads/2013/02/kizilcec2015attrition.pdf"
-  },
-  {
-    "year": 2015,
-    "title": "The Instructor’s Face in Video Instruction: Evidence from Two Large-Scale Field Studies",
-    "authors": "Kizilcec, R. F., Bailenson, J. N., & Gomez, C. J. (2015)",
-    "details": "Journal of Educational Psychology, 107(3), 724-739.",
-    "link": "http://rene.kizilcec.com/wp-content/uploads/2013/02/kizilcec2015instructor.pdf"
+    "year": 2014,
+    "title": "Encouraging Forum Participation in Online Courses with Collectivist, Individualist, and Neutral Motivational Framings.",
+    "authors": "Kizilcec, R. F., Schneider, E., Cohen, G. L., & McFarland, D. A. (2014).",
+    "details": "eLearning Papers , 37, 13-22. ISSN: 1887-1542.",
+    "link": "http://rene.kizilcec.com/wp-content/uploads/2013/02/kizilcec2014encouraging2014elearning.pdf",
+    "award": false
   },
   {
     "year": 2014,
     "title": "Innovations for Learning at Scale Workshop",
-    "authors": "Williams, J. J., Kizilcec, R. F., Klemmer, S., & Russell, D. (2014)",
-    "details": "Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI). Toronto, Canada.",
-    "link": "https://rene.kizilcec.com/wp-content/uploads/2014/01/wksp0167-williamsA.pdf"
+    "authors": "Williams, J. J., Kizilcec, R. F., Klemmer, S., & Russell, D. (2014).",
+    "details": "In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems, CHI 2014. Toronto, Canada.",
+    "link": "https://rene.kizilcec.com/wp-content/uploads/2014/01/wksp0167-williamsA.pdf",
+    "award": false
   },
   {
     "year": 2014,
-    "title": "Encouraging Forum Participation in Online Courses with Collectivist, Individualist, and Neutral Motivational Framings",
-    "authors": "Kizilcec, R. F., Schneider, E., Cohen, G. L., & McFarland, D. A. (2014)",
-    "details": "eLearning Papers, 37, 13-22.",
-    "link": "http://rene.kizilcec.com/wp-content/uploads/2013/02/kizilcec2014encouraging2014elearning.pdf"
+    "title": "Showing Face in Video Instruction: Effects on Information Retention, Visual Attention, and Affect.",
+    "authors": "Kizilcec, R. F., Papadopoulos, K., & Sritanyaratana, L. (2014).",
+    "details": "In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems, CHI 2014 . Toronto, Canada.",
+    "link": "http://rene.kizilcec.com/wp-content/uploads/2014/01/final_version2.pdf",
+    "award": false
   },
   {
     "year": 2014,
-    "title": "The Future of Data–Enriched Assessment",
-    "authors": "Thille, C., Schneider, D. E., Kizilcec, R. F., Piech, C., Halawa, S. A., & Greene, D. K. (2014)",
-    "details": "Research & Practice in Assessment, 9(2), 5-16.",
-    "link": "http://www.rpajournal.com/dev/wp-content/uploads/2014/10/A1.pdf"
-  },
-  {
-    "year": 2014,
-    "title": "Showing Face in Video Instruction: Effects on Information Retention, Visual Attention, and Affect",
-    "authors": "Kizilcec, R. F., Papadopoulos, K., & Sritanyaratana, L. (2014)",
-    "details": "Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI). Toronto, Canada.",
-    "link": "http://rene.kizilcec.com/wp-content/uploads/2014/01/final_version2.pdf"
-  },
-  {
-    "year": 2014,
-    "title": "Anonymity in Social Media: Effects of Content Controversiality and Social Endorsement on Sharing Behavior",
-    "authors": "Zhang, K., & Kizilcec, R. F. (2014)",
-    "details": "Proceedings of the 8th International Conference on Weblogs and Social Media (ICWSM). Ann Arbor, MI.",
-    "link": "http://rene.kizilcec.com/wp-content/uploads/2014/03/zhang_kizilcec_anonymity_icwsm2014.pdf"
+    "title": "The Future of Data–Enriched Assessment.",
+    "authors": "Thille, C., Schneider, D. E., Kizilcec, R. F., Piech, C., Halawa, S. A., & Greene, D. K. (2014).",
+    "details": "Research & Practice in Assessment, 9 (2), 5-16.",
+    "link": "http://www.rpajournal.com/dev/wp-content/uploads/2014/10/A1.pdf",
+    "award": false
   },
   {
     "year": 2014,
     "title": "The Relationship between Virtual Self Similarity and Social Anxiety",
-    "authors": "Aymerich-Franch, L., Kizilcec, R. F., & Bailenson, J. N. (2014)",
-    "details": "Frontiers in Human Neuroscience, 8, 944.",
-    "link": "https://rene.kizilcec.com/wp-content/uploads/2013/02/aymerich2014relationship.pdf"
+    "authors": "Aymerich-Franch, L., Kizilcec, R. F., & Bailenson, J. N. (2014).",
+    "details": "Frontiers in Human Neuroscience, 8(944).",
+    "link": "https://rene.kizilcec.com/wp-content/uploads/2013/02/aymerich2014relationship.pdf",
+    "award": false
   },
   {
     "year": 2013,
-    "title": "Deconstructing Disengagement: Analyzing Learner Subpopulations in Massive Open Online Courses",
-    "authors": "Kizilcec, R. F., Piech, C., & Schneider, E. (2013)",
-    "details": "Proceedings of the Third International Conference on Learning Analytics and Knowledge (LAK). Leuven, Belgium.",
-    "link": "http://rene.kizilcec.com/wp-content/uploads/2013/09/Kizilcec-Piech-Schneider-2013-Deconstructing-Disengagement-Analyzing-Learner-Subpopulations-in-Massive-Open-Online-Courses.pdf"
+    "title": "Collaborative Learning in Geographically Distributed and In-person Groups.",
+    "authors": "Kizilcec, R. F. (2013).",
+    "details": "Proceedings of the 16th International Conference on Artificial Intelligence in Education, AIED 2013 . Memphis, TN.",
+    "link": "http://rene.kizilcec.com/wp-content/uploads/2013/07/Kizilcec_2013_CollaborativeLearningInGeographicallyDistributedAndIn-PersonGroups.pdf",
+    "award": false
   },
   {
     "year": 2013,
-    "title": "Collaborative Learning in Geographically Distributed and In-person Groups",
-    "authors": "Kizilcec, R. F. (2013)",
-    "details": "Proceedings of the 16th International Conference on Artificial Intelligence in Education (AIED). Memphis, TN.",
-    "link": "http://rene.kizilcec.com/wp-content/uploads/2013/07/Kizilcec_2013_CollaborativeLearningInGeographicallyDistributedAndIn-PersonGroups.pdf"
+    "title": "Deconstructing Disengagement: Analyzing Learner Subpopulations in Massive Open Online Courses.",
+    "authors": "Kizilcec, R. F., Piech, C., & Schneider, E. (2013).",
+    "details": "In Proceedings of the Third International Conference on Learning Analytics and Knowledge, LAK 2013 . Leuven, Belgium. | Recording of conference talk.",
+    "link": "http://rene.kizilcec.com/wp-content/uploads/2013/09/Kizilcec-Piech-Schneider-2013-Deconstructing-Disengagement-Analyzing-Learner-Subpopulations-in-Massive-Open-Online-Courses.pdf",
+    "award": false
   }
 ]

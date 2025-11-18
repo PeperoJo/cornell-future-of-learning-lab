@@ -33,7 +33,12 @@ document.addEventListener("DOMContentLoaded", () => {
         row.classList.add("row", "gx-4", "gy-4");
 
         grouped[year].forEach((pub) => {
+          const awardBadge = pub.award
+            ? '<span class="legend-icon legend-award publication-award-badge" aria-hidden="true">★</span>'
+            : "";
+
           let cardHTML = template
+            .replace(/{{awardBadge}}/g, awardBadge)
             .replace(/{{title}}/g, pub.title)
             .replace(/{{authors}}/g, pub.authors || "")
             .replace(/{{details}}/g, pub.details || "")
