@@ -387,7 +387,7 @@ body {
 .image-skewed figure {
   left: 50%;
   transform: translateX(-50%) skew(-18deg, 0deg);
-  width: 155%;
+  width: 150%;
   position: absolute;
   height: 100%;
   margin: 0;
