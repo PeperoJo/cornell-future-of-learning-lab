@@ -330,6 +330,215 @@ body {
   line-height: 20px;
 }
 
+/* Research Page Styles */
+.page-hero-section {
+  padding: 64px 0;
+}
+
+.page-hero-content {
+  position: relative;
+}
+
+.page-hero-gradient {
+  position: absolute;
+  top: 50%;
+  left: 24px;
+  transform: translateY(-50%);
+  width: 100%;
+  z-index: 0;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  overflow: hidden;
+}
+
+.page-hero-gradient-img {
+  height: 325px;
+  width: auto;
+  object-fit: contain;
+}
+
+.hero-visual-container {
+  display: flex;
+  justify-content: center;
+}
+
+.hero-visual {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  gap: 16px;
+  height: 285px;
+  width: 100%;
+  padding-left: 24px;
+  padding-right: 0px;
+}
+
+.image-skewed {
+  aspect-ratio: 1.1;
+  border-radius: 16px;
+  flex: 0 0 65%;
+  height: auto;
+  overflow: hidden;
+  transform: skew(18deg, 0deg);
+  position: relative;
+}
+
+.image-skewed figure {
+  left: 50%;
+  transform: translateX(-50%) skew(-18deg, 0deg);
+  width: 155%;
+  position: absolute;
+  height: 100%;
+  margin: 0;
+}
+
+.image-skewed img {
+  height: 100%;
+  object-fit: cover;
+  width: 100%;
+}
+
+.rect-skewed {
+  background: linear-gradient(0deg, #b31b1b, #e00);
+  border-radius: 16px;
+  content: "";
+  display: block;
+  flex: 0 0 auto;
+  transform: skew(18deg, 0deg);
+  width: 72px;
+}
+
+.page-hero-title {
+  color: var(--primary-text);
+  font-family: Inter;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 52px;
+  margin: 0;
+  margin-bottom: 24px;
+}
+
+.page-hero-description {
+  color: var(--primary-text);
+  opacity: 0.75;
+  font-family: Inter;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px;
+  margin: 0;
+}
+
+#research-projects {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.research-project-section {
+  padding: 64px 0;
+  width: 100%;
+}
+
+.research-project-content {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+}
+
+.research-project-title {
+  color: var(--primary-text);
+  font-family: Inter;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 48px;
+  margin: 0;
+}
+
+.research-project-description {
+  color: var(--primary-text);
+  opacity: 0.75;
+  font-family: Inter;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px;
+  margin: 0;
+}
+
+.research-project-link-container {
+  margin-top: 0;
+}
+
+.research-project-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  border: 1px solid var(--accent-color);
+  padding: 8px 12px;
+  color: var(--accent-color);
+  text-decoration: none;
+  font-family: "Roboto Mono";
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 20px;
+  text-transform: uppercase;
+  width: fit-content;
+  transition: all 0.2s ease;
+}
+
+.research-project-link:hover {
+  background-color: var(--accent-color);
+  color: var(--primary-bg);
+}
+
+.research-project-link svg {
+  flex-shrink: 0;
+}
+
+.research-project-link:hover svg path {
+  stroke: var(--primary-bg);
+}
+
+.research-project-image {
+  width: 100%;
+  height: 280px;
+  border-radius: 8px;
+  overflow: hidden;
+  background-color: #050807;
+  border: 1px solid var(--primary-text);
+}
+
+.research-project-img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  
+}
+
+.research-project-divider {
+  width: 100%;
+  height: 1px;
+  background-color: var(--primary-text);
+  opacity: 0.2;
+  margin: 0;
+}
+
+@media (max-width: 768px) {
+  .research-hero-title {
+    font-size: 32px;
+    line-height: 40px;
+  }
+
+  .research-project-title {
+    font-size: 28px;
+    line-height: 36px;
+  }
+}
+
 .aspect-ratio-4-3 {
   aspect-ratio: 4/3; /* Change this to your desired ratio (width/height) */
   width: 100%;
