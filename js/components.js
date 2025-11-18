@@ -13,6 +13,9 @@ document.addEventListener("DOMContentLoaded", () => {
       })
       .then(html => {
         navbarEl.innerHTML = html;
+        if (window.feather && typeof window.feather.replace === 'function') {
+          window.feather.replace();
+        }
         console.log('Navbar loaded successfully');
       })
       .catch(error => {
@@ -37,6 +40,9 @@ document.addEventListener("DOMContentLoaded", () => {
       })
       .then(html => {
         footerEl.innerHTML = html;
+        if (window.feather && typeof window.feather.replace === 'function') {
+          window.feather.replace();
+        }
         console.log('Footer loaded successfully');
       })
       .catch(error => {
