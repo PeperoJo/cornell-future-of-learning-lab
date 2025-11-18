@@ -294,8 +294,17 @@ body {
   border-radius: 4px;
   flex-shrink: 0;
   aspect-ratio: 4/3;
-  background-size: cover;
-  background-position: center;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.project-card-img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 4px;
 }
 
 .project-card-content {

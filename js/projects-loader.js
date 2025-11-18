@@ -19,10 +19,13 @@ document.addEventListener("DOMContentLoaded", () => {
     tempDiv.innerHTML = cardHTML;
     const card = tempDiv.firstElementChild;
     
-    // Set the background image if provided
-    const imageDiv = card.querySelector('.project-card-image');
+    // Set the image src if provided
+    const imageImg = card.querySelector('.project-card-img');
     if (project.image) {
-      imageDiv.style.backgroundImage = `url(${project.image})`;
+      imageImg.src = project.image;
+      imageImg.alt = project.title || 'Project image';
+    } else {
+      imageImg.style.display = 'none';
     }
     
     // Show/hide the "Learn more" link based on whether a link exists
