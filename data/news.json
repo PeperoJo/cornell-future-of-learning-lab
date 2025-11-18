@@ -1,0 +1,33 @@
+[
+  {
+    "date": "2025-01-15",
+    "description": "To express interest in a research assistant position for the Spring 2025 semester, use this form.",
+    "link": "https://forms.example.com/ra-application",
+    "linkText": "use this form"
+  },
+  {
+    "date": "2025-01-10",
+    "description": "Apply here for an NSF-funded postdoctoral position.",
+    "link": "https://jobs.example.com/postdoc",
+    "linkText": "here"
+  },
+  {
+    "date": "2025-01-05",
+    "description": "We welcome two new PhD students to the lab: Jadon Geathers & Deepak Varuvel Dennison!",
+    "link": "",
+    "linkText": ""
+  },
+  {
+    "date": "2024-12-20",
+    "description": "New publication on AI in education published in Nature Learning Sciences.",
+    "link": "https://example.com/publication",
+    "linkText": "Read more"
+  },
+  {
+    "date": "2024-12-15",
+    "description": "Lab receives NSF grant for research on personalized learning systems.",
+    "link": "https://example.com/grant",
+    "linkText": "Learn more"
+  }
+]
+

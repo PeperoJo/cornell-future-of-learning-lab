@@ -3,31 +3,31 @@
     "title": "National Tutoring Observatory",
     "description": "NTO is building a research infrastructure for education to advance the sicence and practice of instruction. By partnering with a range of tutoring providers, the NTO will create the world’s largest repository of video and transcript data about tutoring interactions. We will create a Million Tutor Moves dataset that records at least one million interactions between teachers and students across a range of subjects, grade levels, and educational contexts.",
     "link": "https://nationaltutoringobservatory.org/",
-    "image": "/img/calibration.jpg"
+    "image": "img/projects/nto.png"
   },
   {
     "title": "MedSimAI",
     "description": "MedSimAI investigates how artificial intelligence can enhance medical education through interactive clinical simulations. Using large language models, our platform creates virtual patient encounters that allow medical students to practice and refine their communication skills. Through deliberate practice and self-regulated learning, students can engage with diverse patient scenarios while receiving structured feedback—all in a safe, controlled environment before entering clinical settings with real patients.",
     "link": "https://medsimai.com/",
-    "image": "/img/calibration.jpg"
+    "image": "img/projects/medsimai.png"
   },
   {
     "title": "ChitterChatter",
     "description": "ChitterChatter transforms foreign language classroom concepts into authentic, spoken conversations with virtual practice partners, using large language models with speech-to-speech capabilities to create an interactive, classroom-integrated platform. The system provides students with engaging speaking practice in their target language while aligning with instructor-configured curricula. Instructors can easily incorporate the system by sharing their existing lesson plans, which automatically adapt the practice partner's behavior. Through responsive and contextually relevant conversations, ChitterChatter aims to help students become more comfortable speaking their target language while building confidence and proficiency.",
     "link": "https://www.chitterchatter.app/",
-    "image": "img/calibration.jpg"
+    "image": "img/projects/chitterchatter.png"
   },
   {
     "title": "Pathways",
     "description": "Pathways is an interest-driven academic and career exploration tool that shows authentic and holistic examples of how previous students navigated an institution of higher education: it shows the courses that individual students took each term, the major (and minor) they declared, and what career or graduate program they pursued afterwards. Students input interests which the tool uses to select relevant and diverse example pathways from historical registrar data. The tool is used by thousands of current and prospective students at Cornell University.",
     "link": "https://pathways.cornell.edu/",
-    "image": "img/calibration.jpg"
+    "image": "img/projects/pathways.png"
   },
   {
     "title": "AI for Teachers",
     "description": "Teachers in the Global South face major hurdles in lesson preparation due to limited time, staff shortages, large class sizes, and scarce resources. While LLMs offer promise, mainstream chatbots often lack vernacular support, contextual relevance, and flexibility to teachers' needs. This highlights the need for specialized AI tools. In collaboration with Microsoft Research India, we evaluate Shiksha Copilot, an AI system designed to support Indian teachers in content creation and explore its impact on their work practices.",
     "link": "",
-    "image": "img/calibration.jpg"
+    "image": "img/projects/ai_for_teachers.png"
   }
 ]
 

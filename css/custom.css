@@ -220,6 +220,116 @@ body {
   line-height: 24px; /* 150% */
 }
 
+/* News Items Styles */
+#news-items {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  width: 100%;
+}
+
+.news-item {
+  display: flex;
+  gap: 16px;
+  align-items: flex-start;
+  width: 100%;
+}
+
+.news-item-icon {
+  flex-shrink: 0;
+  width: 16px;
+  height: 16px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 4px;
+}
+
+.news-item-icon svg {
+  width: 16px;
+  height: 16px;
+}
+
+.news-item-content {
+  flex: 1;
+  min-width: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.news-item-date {
+  color: var(--primary-text);
+  opacity: 0.75;
+  font-family: "Roboto Mono";
+  font-size: 13px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 20px;
+  text-transform: uppercase;
+  margin: 0;
+}
+
+.news-item-text {
+  color: var(--primary-text);
+  opacity: 0.75;
+  font-family: Inter;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px;
+  margin: 0;
+}
+
+.news-item-link {
+  color: var(--accent-color);
+  text-decoration: underline;
+  text-decoration-style: dotted;
+  text-underline-offset: 20%;
+  text-decoration-skip-ink: none;
+  font-family: Inter;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+}
+
+.news-item-link:hover {
+  color: var(--accent-color);
+  opacity: 0.8;
+}
+
+.news-item-divider {
+  width: 100%;
+  height: 1px;
+  background-color: var(--primary-text);
+  opacity: 0.2;
+  margin: 0;
+}
+
+.news-subscribe {
+  color: var(--primary-text);
+  opacity: 0.75;
+  font-family: Inter;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 20px;
+  margin: 0;
+  margin-top: 0;
+}
+
+.news-subscribe-link {
+  color: var(--accent-color);
+  text-decoration: underline;
+  text-decoration-style: dotted;
+  text-underline-offset: 20%;
+  text-decoration-skip-ink: none;
+  font-family: Inter;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 20px;
+}
+
 .aspect-ratio-4-3 {
   aspect-ratio: 4/3; /* Change this to your desired ratio (width/height) */
   width: 100%;
@@ -276,7 +386,7 @@ body {
 
 .project-card {
   border: 1px solid var(--primary-text);
-  border-radius: 4px;
+  border-radius: 6px;
   padding: 16px;
   display: flex;
   flex-direction: column;
@@ -289,6 +399,7 @@ body {
 
 .project-card-image {
   background-color: var(--primary-text);
+  border: 1px solid var(--primary-text);
   width: 100%;
   max-width: 400px;
   border-radius: 4px;
