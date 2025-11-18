@@ -15,19 +15,19 @@
     "title": "ChitterChatter",
     "description": "ChitterChatter transforms foreign language classroom concepts into authentic, spoken conversations with virtual practice partners, using large language models with speech-to-speech capabilities to create an interactive, classroom-integrated platform. The system provides students with engaging speaking practice in their target language while aligning with instructor-configured curricula. Instructors can easily incorporate the system by sharing their existing lesson plans, which automatically adapt the practice partner's behavior. Through responsive and contextually relevant conversations, ChitterChatter aims to help students become more comfortable speaking their target language while building confidence and proficiency.",
     "link": "https://www.chitterchatter.app/",
-    "image": "/img/calibration.jpg"
+    "image": "img/calibration.jpg"
   },
   {
     "title": "Pathways",
     "description": "Pathways is an interest-driven academic and career exploration tool that shows authentic and holistic examples of how previous students navigated an institution of higher education: it shows the courses that individual students took each term, the major (and minor) they declared, and what career or graduate program they pursued afterwards. Students input interests which the tool uses to select relevant and diverse example pathways from historical registrar data. The tool is used by thousands of current and prospective students at Cornell University.",
     "link": "https://pathways.cornell.edu/",
-    "image": "/img/calibration.jpg"
+    "image": "img/calibration.jpg"
   },
   {
     "title": "AI for Teachers",
     "description": "Teachers in the Global South face major hurdles in lesson preparation due to limited time, staff shortages, large class sizes, and scarce resources. While LLMs offer promise, mainstream chatbots often lack vernacular support, contextual relevance, and flexibility to teachers' needs. This highlights the need for specialized AI tools. In collaboration with Microsoft Research India, we evaluate Shiksha Copilot, an AI system designed to support Indian teachers in content creation and explore its impact on their work practices.",
     "link": "",
-    "image": "/img/calibration.jpg"
+    "image": "img/calibration.jpg"
   }
 ]
 
