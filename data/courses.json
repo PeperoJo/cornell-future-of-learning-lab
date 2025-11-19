@@ -1,0 +1,48 @@
+[
+  {
+    "code": "INFO 4100/5101",
+    "title": "Learning Analytics",
+    "professor": "Prof. Rene Kizilcec",
+    "description": "How is technology transforming the ways we learn and teach? How can all of the interaction and performance data that are generated from online courses, learning management systems, and student discussion forums be used effectively? This introductory course on Learning Analytics provides a survey of learning science theories (active learning, modalities, Bloom's taxonomy, metacognition, self-regulated learning) and educational data science methods (predictive modeling, classification, regression, natural language processing, causal inference). Students will collect and analyze their own learning trace data as part of the course. Learning outcomes: Students will learn to articulate key ideas in the learning sciences; articulate the potential benefits and dangers of learning analytics for students, teachers, and institutions; choose and apply appropriate methods for analyzing different kinds of educational data and be able to articulate why; and interpret the results of basic learning analytics.",
+    "image": "img/courses/info-4100.jpg",
+    "links": [
+      {
+        "label": "Course Page",
+        "link": "https://learning.cis.cornell.edu/courses/"
+      }
+    ],
+    "tags": ["Learning Science", "Data Science", "Active Learning"]
+  },
+  {
+    "code": "INFO/COMM 4800/5800",
+    "title": "Behavioral Science Interventions",
+    "professor": "Prof. Neil Lewis Jr., Prof. Rene Kizilcec",
+    "description": "\"There is nothing as practical as a good theory,\" Kurt Lewin wrote. Today behavioral scientists build on social scientific theories about human behavior to develop new intervention approaches that address major challenges facing our society: poverty, poor health, educational inequalities, and many more. This course is designed as a senior capstone seminar that equips students with the knowledge and skills to analyze social problems, consider the ethical implications of intervention, design and pilot appropriate interventions, implement and test them online, analyze and interpret the results, and present policy-relevant findings. The course combines applied quantitative research methods and applied social behavioral science theories to prepare students for careers in research, data science, consulting, and policy evaluation.",
+    "image": "img/courses/info-4800.jpg",
+    "links": [
+      {
+        "label": "Annie (Sp'20)",
+        "link": "https://cals.cornell.edu/news/2020/06/annie-weiss-21-understanding-gendered-portrayal-of-food"
+      },
+      {
+        "label": "Tanmay (Sp'20)",
+        "link": "https://cals.cornell.edu/news/2020/05/tanmay-bansal-21-studying-behavioral-science-interventions"
+      }
+    ],
+    "tags": ["Behavioral Science", "Field Experiments", "Policy"]
+  },
+  {
+    "code": "INFO 6750",
+    "title": "Causal Inference and Design of Experiments",
+    "professor": "Prof. Rene Kizilcec",
+    "description": "The National Tutoring Observatory is building a research infrastructure for education to advance the science and practice of instruction. By partnering with a range of tutoring providers, the NTO will create the world's largest repository of video and transcript data about tutoring interactions. We will create a Million Tutor Moves dataset that records at least one million interactions between teachers and students across a range of subjects, grade levels, and educational contexts.",
+    "image": "img/courses/info-6750.jpg",
+    "links": [
+      {
+        "label": "Course Page",
+        "link": "https://learning.cis.cornell.edu/courses/"
+      }
+    ],
+    "tags": ["Causal Inference", "Statistics", "Research Methods"]
+  }
+]
